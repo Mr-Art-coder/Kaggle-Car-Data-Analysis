@@ -57,7 +57,8 @@ This was used to showcase the total number of cars sold per year.
 
 ## Line Charts
 
-![Line Charts] (https://github.com/Mr-Art-coder/Kaggle-Car-Data-Analysis/blob/main/Line%20Chart%200.1.JPG) ![Line Charts](https://github.com/Mr-Art-coder/Kaggle-Car-Data-Analysis/blob/main/Line%20Chart%200.2.JPG) ![Line Chart](https://github.com/Mr-Art-coder/Kaggle-Car-Data-Analysis/blob/main/Line%20Chart.JPG)
+![Line Charts] (https://github.com/Mr-Art-coder/Kaggle-Car-Data-Analysis/blob/main/Line%20Chart%200.1.JPG)
+![Line Charts](https://github.com/Mr-Art-coder/Kaggle-Car-Data-Analysis/blob/main/Line%20Chart%200.2.JPG) ![Line Chart](https://github.com/Mr-Art-coder/Kaggle-Car-Data-Analysis/blob/main/Line%20Chart.JPG)
 
 Three line charts were used, to visualize the top 10 most profitable cars, profit made on different cars per year and the fuel type used by cars.
 
